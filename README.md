@@ -128,9 +128,9 @@ Licensing Agent - J.E. Randolph 📧 [700josh.r@gmail.com](mailto:700josh.r@gmai
 
 ## 📚 Citation
 
-* 📝 `Goodbye to (ϕ) - Replacing the Galvani Potential with a Boltzmann Geometric State Equation for Next-Gen Battery Operation and Reduced-Gravity Molten Salt Electrolysis (Lean 4 and Python).pdf`
+* 📝 `Formally Verified Pre-Stress Manifolds for Dynamic Stability and Adaptive Physical Intelligence in Tensegrity Reservoir Computing.pdf`
 
-Reed, Jonathan ƒ(n). (2026). Goodbye to (ϕ) - Replacing the Galvani Potential with a Boltzmann Geometric State Equation for Next-Gen Battery Operation and Reduced-Gravity Molten Salt Electrolysis (Lean 4 and Python) (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.23130582 
+Reed, Jonathan ƒ(n). (2026). Formally Verified Pre-Stress Manifolds for Dynamic Stability and Adaptive Physical Intelligence in Tensegrity Reservoir Computing (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.23812753
 
 ---
 
