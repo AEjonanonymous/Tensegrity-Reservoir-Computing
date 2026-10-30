@@ -2,8 +2,6 @@
 
 ### <p align="center"><i>Formally Verified Pre-Stress Manifolds for Dynamic Stability and Adaptive Physical Intelligence in Tensegrity Reservoir Computing.</i>
 
-### <p align="center">(Lean 4 and Python)
-
 ### <p align="center">📌 Abstract
 
 <i>Physical reservoir computing leverages the rich dynamical response of non-linear physical bodies to process temporal information without electronic microprocessors. Tensegrity structures, networks of discontinuous compression struts suspended within continuous tension cables, exhibit exceptional compliance, multi-stability, and high-dimensional configuration manifolds, making them prime candidates for mechanical intelligence in extreme, radiation-heavy environments. However, current methodologies rely predominantly on heuristic evolutionary algorithms or brute-force trial-and-error to configure such systems, lacking a rigorous analytical design framework. In this paper, we bridge this gap by establishing an explicit, first-principles mathematical mapping between the internal self-stress null space of a tensegrity network and its Information Processing Capacity (IPC). By decomposing the tangent stiffness matrix into material elastic ($K_e$) and pre-stress geometric ($K_g$) contributions, we demonstrate that the computational memory and fading-memory time constants of a tensegrity reservoir can be systematically engineered by tuning member pre-tensions within an admissible convex cone, holding spatial geometry strictly constant.</i>
