@@ -1,0 +1,17 @@
+{
+  "challenge_module": "Challenge",
+  "solution_module": "Solution",
+  "theorem_names": [
+    "Kg_add",
+    "Kg_smul",
+    "tensegrity_cone_convex",
+    "sensitivity_linear",
+    "sensitivity_bounded_expansion",
+    "dynamic_stability_positive_definiteness"
+  ],
+  "permitted_axioms": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ]
+}
