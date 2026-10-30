@@ -98,7 +98,7 @@ Prove that as long as $\mathnormal{t}_0 \in \mathcal{C}$ and member axial stiffn
 
 ---
 
-## 🔬 Numerical Implementation, Optimization Algorithm & 3-Strut Prism Case Study
+## ⚙️ Numerical Implementation, Optimization Algorithm & 3-Strut Prism Case Study
 
 To operationalize the theoretical framework and machine-verified theorems, we implement a first-principles numerical architecture that bridges analytical manifold engineering with a computational simulation framework built using Python and SciPy.
 
@@ -124,13 +124,13 @@ Press ENTER to exit console.
 
 ## 🏦 Commercial Applications & Industry Use Cases
 
-By replacing an unmeasurable macroscopic voltage with a structurally derived Boltzmann distribution, the framework can quantify real-world anomalies that baffle classical models. Our research has direct implications for industries where traditional electrochemical trial-and-error is costing millions of dollars and failing due to structural complexities:
+By replacing heuristic trial-and-error with machine-verified stability guarantees and a first-principles kinematic library, the framework enables engineers to deploy complex structural intelligence with mathematical certainty. Our research has direct implications for industries where traditional soft or dynamic systems fail due to structural instability and design blindness:
 
-⚡ **Next-Gen Battery Manufacturers:** Companies designing high-density or solid-state electrolytes where standard continuum models break down at nanoscale interfaces.
+🤖 **Soft Robotics & Autonomous Morphing Systems:** Engineers designing deformable robotic limbs and soft actuators that require decentralized, intrinsic temporal processing (physical reservoir computing) without risking catastrophic structural collapse or loss of restoring force.
 
-⛏️ **Industrial Molten Salt Electrolysis Operators:** Firms working in high-temperature metal extraction (aluminum, magnesium, and space-mining regolith processing) dealing with bubble passivation and efficiency drop-offs.
+🚀 **Aerospace & Deployable Space Structures:** Teams building multi-module tensegrity lattices for extreme space, thermal, and radiation environments where rigid mechanical joints fail, and where machine-verified safety guardrails (Theorem 4) are mandatory for autonomous deployment.
 
-🔬 **Advanced Materials and Chemical R&D Labs:** Researchers who need to predict ion stability and phase transitions without spending months running brute-force Molecular Dynamics (MD) simulations.
+🔬 **Neuromorphic & Mechanical Edge Computing R&D Labs:** Researchers and hardware developers exploring analog, mechanical, or metamaterial computing substrates who need rigorously verified pre-stress manifolds ($\mathcal{C}$) to bypass digital approximation bottlenecks and ensure predictable time-series mapping.
 
 ---
 
@@ -140,7 +140,7 @@ This project is open-source software licensed under the *GNU Affero General Publ
 
 ### 📜 Commercial Exemption & Proprietary Integration
 
-Due to the strong copyleft provisions of the AGPL, any commercial entity or enterprise organization that integrates this formal Lean proof or battery module into a proprietary, closed-source product is legally required to make their entire product source code open-source under the terms of the AGPL. For organizations wishing to incorporate this software into closed-source commercial products or proprietary toolchains without triggering AGPL distribution obligations, commercial exemptions are available. 
+Due to the strong copyleft provisions of the AGPL, any commercial entity or enterprise organization that integrates this formal Lean proof or Python library/class into a proprietary, closed-source product is legally required to make their entire product source code open-source under the terms of the AGPL. For organizations wishing to incorporate this software into closed-source commercial products or proprietary toolchains without triggering AGPL distribution obligations, commercial exemptions are available. 
 
 *Disclaimer:* Commercial exemptions grant the legal right to bypass AGPL copyleft restrictions for proprietary integration. All formal verification artifacts and files are provided **"as is"**, without warranty of any kind, express or implied. The integration, application, validation, and operational safety verification of the code within any commercial product remain entirely the responsibility of the licensee.
 
