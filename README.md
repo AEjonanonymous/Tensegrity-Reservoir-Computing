@@ -12,7 +12,7 @@ This paper establishes the first analytical framework for pre-stress manifold en
 
 ### Step 1: Global Equilibrium & The Admissible Self-Stress Convex Cone
 
-Let a tensegrity structure comprise $N$ nodes and $M$ members, partitioned into a set of compression struts $\mathcal{I}_{\text{s}}$ and tension cables $\mathcal{I}_{\text{c}}$ ($M = \vert\mathcal{I}_{\text{s}}\vert + \vert\mathcal{I}_{\text{c}}\vert$). The nodal configuration vector is $\mathnormal{x} = [\mathnormal{p}_1^T, \dots, \mathnormal{p}_N^T]^T \in \mathbb{R}^{3N}$.
+Let a tensegrity structure comprise $N$ nodes and $M$ members, partitioned into a set of compression struts $\mathcal{I}_{\text{s}}$ and tension cables $\mathcal{I}_{\text{c}}$ ($M = \| \mathcal{I}_{\text{s}} \| + \| \mathcal{I}_{\text{c}} \|$). The nodal configuration vector is $\mathnormal{x} = [\mathnormal{p}_1^T, \dots, \mathnormal{p}_N^T]^T \in \mathbb{R}^{3N}$.
 
 The global static equilibrium under external load $\mathnormal{f} \in \mathbb{R}^{3N}$ is governed by:
 
