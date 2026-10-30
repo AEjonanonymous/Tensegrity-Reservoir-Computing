@@ -1,6 +1,4 @@
-# <p align="center">Tensegrity-Reservoir-Computing
-
-### <p align="center"><i>Formally Verified Pre-Stress Manifolds for Dynamic Stability and Adaptive Physical Intelligence in Tensegrity Reservoir Computing.</i>
+# <p align="center"><i>Formally Verified Pre-Stress Manifolds for Dynamic Stability and Adaptive Physical Intelligence in Tensegrity Reservoir Computing</i>
 
 ### <p align="center">📌 Abstract
 
