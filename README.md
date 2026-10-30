@@ -98,25 +98,13 @@ Prove that as long as $\mathnormal{t}_0 \in \mathcal{C}$ and member axial stiffn
 
 ---
 
-## 🏦 Commercial Applications & Industry Use Cases
+## 🔬 Numerical Implementation, Optimization Algorithm & 3-Strut Prism Case Study
 
-By replacing an unmeasurable macroscopic voltage with a structurally derived Boltzmann distribution, the framework can quantify real-world anomalies that baffle classical models. Our research has direct implications for industries where traditional electrochemical trial-and-error is costing millions of dollars and failing due to structural complexities:
-
-⚡ **Next-Gen Battery Manufacturers:** Companies designing high-density or solid-state electrolytes where standard continuum models break down at nanoscale interfaces.
-
-⛏️ **Industrial Molten Salt Electrolysis Operators:** Firms working in high-temperature metal extraction (aluminum, magnesium, and space-mining regolith processing) dealing with bubble passivation and efficiency drop-offs.
-
-🔬 **Advanced Materials and Chemical R&D Labs:** Researchers who need to predict ion stability and phase transitions without spending months running brute-force Molecular Dynamics (MD) simulations.
-
----
-
-## 🔋 The Numerical Implementation & Optimization Algorithm
-
-To make a true plug-and-play asset that battery engineers can drop straight into their simulation workflows, we translate the verified equations directly into a high-performance code library written in Python with NumPy/SciPy.
+To operationalize the theoretical framework and machine-verified theorems, we implement a first-principles numerical architecture that bridges analytical manifold engineering with a computational simulation framework built using Python and SciPy.
 
 💻 `tensegrity_reservoir.py` 
 
-Inside the solver loop, we use the bounds proven in our Lean 4 proofs as hard safety assertions. If a simulation hits a non-physical density spike that violates the convolution bounds, the solver throws a stability warning, mirroring real-world failure thresholds.
+To validate our analytical and machine-verified, computational framework, we instantiate the matrices $\mathnormal{K}_e$ and $\mathnormal{G}_k$ of a classic 3-strut tensegrity prism by importing our custom Python library and benchmarking its computational performance on the Mackey-Glass chaotic time-series prediction 
 
 💻 `case_study_prism.py`
 
@@ -131,6 +119,18 @@ Status: Boundary-Conditioned First-Principles Mechanics & Machine-Verified Stabi
 ...Program finished with exit code 0
 Press ENTER to exit console.
 ```
+
+---
+
+## 🏦 Commercial Applications & Industry Use Cases
+
+By replacing an unmeasurable macroscopic voltage with a structurally derived Boltzmann distribution, the framework can quantify real-world anomalies that baffle classical models. Our research has direct implications for industries where traditional electrochemical trial-and-error is costing millions of dollars and failing due to structural complexities:
+
+⚡ **Next-Gen Battery Manufacturers:** Companies designing high-density or solid-state electrolytes where standard continuum models break down at nanoscale interfaces.
+
+⛏️ **Industrial Molten Salt Electrolysis Operators:** Firms working in high-temperature metal extraction (aluminum, magnesium, and space-mining regolith processing) dealing with bubble passivation and efficiency drop-offs.
+
+🔬 **Advanced Materials and Chemical R&D Labs:** Researchers who need to predict ion stability and phase transitions without spending months running brute-force Molecular Dynamics (MD) simulations.
 
 ---
 
