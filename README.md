@@ -26,7 +26,7 @@ $$\mathnormal{t}_0 \in \mathcal{C} = \{ \mathnormal{t}_0 \in \ker(A(\mathnormal{
 
 ### Step 2: Tangent Stiffness Decomposition
 
-Linearizing the equilibrium equations via a first-order Taylor expansion yields the total tangent stiffness operator $K \in \mathbb{R}^{3N \times 3N}$ [5]:
+Linearizing the equilibrium equations via a first-order Taylor expansion yields the total tangent stiffness operator $K \in \mathbb{R}^{3N \times 3N}$:
 
 $$K = K_e + K_g$$
 
